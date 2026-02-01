@@ -1,4 +1,4 @@
-# NVIDIA iQuHACK 2026 Challenge
+# NVIDIA iQuHACK 2026 Challenge.
 
 ## Overview
 
